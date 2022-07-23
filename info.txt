@@ -1,0 +1,4 @@
+1.Crea base de datos (mecanica)
+1.Ingresa la hoja de base de datos
+2.Crea una tabla contacto (id,name,phone,service,message)
+(100SOLES DERECHOS JOSEFIESTAS)
